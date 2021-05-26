@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/arimethys/ng2-img-max.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "main": "./dist/bundles/ng2-img-max.umd.js",
   "module": "./dist/ng2-img-max.js",
