@@ -27,6 +27,7 @@
         "ng2-img-max.ts"
     ],
     "angularCompilerOptions": {
-        "strictMetadataEmit": true
+        "strictMetadataEmit": true,
+        "enableIvy": false,
     }
 }
